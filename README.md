@@ -5,7 +5,7 @@ Welcome to the StarLAb Radio Telescope project repository! 🌌
 
 Our project aims to build a Radio Telescope capable of receiving and recording wavelenghts of the Ku Wavelenght Band (12 - 18 GHz).
 
-The two primarry goals for the projects are :
+The two primarry goals for the project are :
 1) To receive and process radio signals from satellites in earth’s orbit and map all the man made satellites.
 2) To receive and process radio signals from the Sun.
 
